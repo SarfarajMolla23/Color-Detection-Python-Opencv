@@ -1,4 +1,4 @@
-# Color-Detection-Python-Opencv
+# Color Detection
 
 Build a color detection model using python, opencv, numpy and pillow
 
